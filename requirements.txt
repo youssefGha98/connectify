@@ -1,0 +1,4 @@
+pandas
+streamlit_option_menu
+streamlit-aggrid
+matplotlib
